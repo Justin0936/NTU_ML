@@ -37,3 +37,13 @@ $ pip2.7 install -r requirements.txt
 https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
 
 
+使用 pip 安裝 TensorFlow
+https://www.tensorflow.org/install/pip?hl=zh-tw#virtual-environment-install
+
+NTU HY Lee機器學習作業
+https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
+
+大魚AI🐟 ：李宏毅機器學習(台灣大學)
+https://github.com/dafish-ai/NTU-Machine-learning
+
+
