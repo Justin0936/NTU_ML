@@ -37,6 +37,18 @@ $ pip2.7 install -r requirements.txt
 https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
 
 
+
+接下來就是在要開始啟動虛擬環境。您可以在CMD模式下進入Scripts目錄(在env01中)，接著CMD裡輸入activate就好了
+activate
+
+這時候CMD模式C:\mypython3\env01\Scripts>前面會有一個(env01)，表示您目前是處於此虛擬環境中。這時候您就可以在此虛擬環境中，開始安裝您所需要的各種package。
+
+Step 4:離開虛擬環境
+若要離開虛擬環境，只要輸入deactivate就可以離開目前虛擬環境，並且發現最前面已經沒有(env01)
+
+https://medium.com/python4u/python-virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-9d6be2d45db9
+
+
 使用 pip 安裝 TensorFlow
 https://www.tensorflow.org/install/pip?hl=zh-tw#virtual-environment-install
 
