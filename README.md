@@ -24,15 +24,21 @@ create virtual environment
    Please refe: https://medium.com/python4u/python-virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-9d6be2d45db9
    
 $ virtualenv ./ENV
+
+
 enter virtual environment
 
 $ source ./ENV/bin/activate
+
+
 if you want to exit virual environment,
 
 $ deactivate
+
 install dependencies under virtual environment
 
 $ pip2.7 install -r requirements.txt
+
 
 https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
 
