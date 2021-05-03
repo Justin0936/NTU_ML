@@ -9,7 +9,7 @@
 
   ### **method 1: virtualenv**
   
-    #### Step 1:安裝virtualenv
+    Step 1:安裝virtualenv
     
 ```
   pip3 install — upgrade pip
