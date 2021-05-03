@@ -49,32 +49,9 @@ if you want to exit virual environment,
 $ deactivate
 ```
 
+> [使用 pip 安裝 TensorFlow](https://www.tensorflow.org/install/pip?hl=zh-tw#virtual-environment-install)
 
-https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
+> [NTU HY Lee機器學習作業](https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework)
 
-
-如還為安裝,請參考下列流程:
-  Step 1:安裝virtualenv
-    pip3 install — upgrade pip   
-    有時會發生需要.
-    python -m pip install --upgrade pip  
-    
-   這時候我們就要開始安裝virtualenv套件
-   pip install virtualenv
-   
-   Please refe: https://medium.com/python4u/python-virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-9d6be2d45db9
-
-
-https://medium.com/python4u/python-virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D-9d6be2d45db9
-
-
-*使用 pip 安裝 TensorFlow
-https://www.tensorflow.org/install/pip?hl=zh-tw#virtual-environment-install
-
-*NTU HY Lee機器學習作業
-https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework
-
-*大魚AI🐟 ：李宏毅機器學習(台灣大學)
-https://github.com/dafish-ai/NTU-Machine-learning
-
+> [大魚AI🐟 ：李宏毅機器學習(台灣大學)](https://github.com/dafish-ai/NTU-Machine-learning)
 
